@@ -13,7 +13,7 @@ public class IntegerDivision {
         //Change the larger number to a decimal
         num1 = 50.0; // Will not execute. Num1 is now a double, must change all int to double
 
-        double result1 = num1 / num2;
+        double resultA = num1 / num2;
 
         System.out.println("Dividing " + num1 + " by " + num2 + " results in " + result);
 
